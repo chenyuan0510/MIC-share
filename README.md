@@ -1,7 +1,7 @@
 # MIC-share
 A novel feature selection method based on maximum information coefficient and redundancy sharing
 
-1） MATLAB is the tool of NDC;
+1） MATLAB is the tool of MIC-share;
 
 2) The Chi-MIC should be installed:https://github.com/chenyuan0510/Chi-MIC.git
 
